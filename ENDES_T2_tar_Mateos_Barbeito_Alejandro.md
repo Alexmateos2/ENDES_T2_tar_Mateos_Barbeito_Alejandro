@@ -1,4 +1,30 @@
-# ENDES_T2_tar_Mateos_Barbeito_Alejandro
+
+ ## Subtarea 1: Uso de GitHub y Git:
+ Vamos a mostrar cada paso necesario con capturas de pantalla para enseñar los pasos realizados:
+ 
+ **1. Ejecuta un comando que muestre los contenidos de la carpeta para ver que el repositorio está vacío o solo contiene el archivo README.**
+
+![Repositorio vacio](Capturas/Captura1.png)
+
+**2. Una captura de pantalla del resultado de ejecutar git status cuando el repositorio está "al día".**
+
+![Repositorio al dia](Capturas/Captura2.png)
+
+**3. Una captura de pantalla del resultado de ejecutar git status cuando hay un archivo nuevo que git todavía no está rastreando.**
+
+![Archivo sin trackear](Capturas/Captura3.png)
+
+**4. Una captura de pantalla del resultado de ejecutar git status cuando hay archivos en la fase staged, es decir; están preparados para hacer un commit.**
+
+![Ready to commit](Capturas/Captura4.png)
+
+**5. Una captura de pantalla del resultado de ejecutar git status cuando el repositorio local está al día tras haber realizado cambios, pero no está sincronizado con GitHub.**
+
+![Commit realizado](Capturas/Captura5.png)
+
+**6. Una captura de pantalla del resultado de sincronizar nuestro repositorio Git local con el repositorio en GitHub.**
+
+![Push realizado](Capturas/Captura6.png)
 
  ## Subtarea 2: Comparación de dos IDEs o editores de texto:
 
