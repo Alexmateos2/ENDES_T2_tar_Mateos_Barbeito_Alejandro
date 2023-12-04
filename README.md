@@ -32,3 +32,9 @@ Respecto a la personalización **IntelliJ IDEA** también posee plugings para am
 Hay que tener en cuenta que **IntelliJ IDEA** posee una versión de pago con un fuerte soporte para muchos marcos profesionales.
 
 En conclusión, **Visual Studio Code** puede ser mas universal, ya que es más simple y polivalente pero  **IntelliJ IDEA** es una grandísima opción a un nivel más alto por su cantidad de funciones.
+
+ ## Subtarea 3: Componente de Autocompletado y Sugerencias en Visual Studio Code:
+
+ El motor de autocompletado de **Visual Studio Code** es muy eficiente y ofrece sugerencias precisas mientras escribes código. Su capacidad para adaptarse a varios lenguajes y proporcionar sugerencias relevantes facilita la productividad del programador al acelerar la entrada de código y reducir posibles errores.
+
+ En uso diario alivia mucho la tarea del programador, agilizando la entrada de código y reduciendo la posibilidad de errores en el código. En mi opinión, es una de las grandes herramientas de **Visual Studio Code** y mi favorita.
